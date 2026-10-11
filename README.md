@@ -3,8 +3,6 @@
 ![C++17](https://img.shields.io/badge/C%2B%2B-17-blue.svg)
 ![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)
 
-Two console applications written in **C++17** for the *Algorithms and Data Structures 2* course at the School of Electrical Engineering, University of Belgrade (ETF).
-
 | # | Project | Core topic |
 |---|---------|------------|
 | 1 | [Temperature monitoring](#task-1--temperature-monitoring) | Binary search on a sorted array (first/last occurrence, range queries) |
