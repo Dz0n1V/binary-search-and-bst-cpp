@@ -1,4 +1,4 @@
-# Algorithms & Data Structures 2 – Homework 1
+# Binary search and BST
 
 ![C++17](https://img.shields.io/badge/C%2B%2B-17-blue.svg)
 ![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)
@@ -160,8 +160,8 @@ Guest With Closest Higher Points:
 Requirements: a C++17 compiler (GCC or Clang) and `make`. Python 3 is only needed for the tests.
 
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/Dz0n1V/binary-search-and-bst-cpp.git
+cd binary-search-and-bst-cpp
 
 make                                   # builds both programs into build/
 
